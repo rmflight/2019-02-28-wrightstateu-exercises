@@ -1,0 +1,6 @@
+1 - Download data from: https://ndownloader.figshare.com/files/7823341
+2 - Click Create Project and select Get data from This Computer.
+3 - Click Choose Files and select the file Portal_rodents_19772002_scinameUUIDs.csv. Click Open or double-click on the filename.
+4 - Click Next>> under the browse button to upload the data into OpenRefine.
+5 - OpenRefine gives you a preview - a chance to show you it understood the file. If, for example, your file was really tab-delimited, the preview might look strange, you would choose the correct separator in the box shown and click Update Preview (bottom right). If this is the wrong file, click <<Start Over (upper left).
+6 - If all looks well, click Create Project>> (upper right).
