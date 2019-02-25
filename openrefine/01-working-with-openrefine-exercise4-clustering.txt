@@ -1,0 +1,7 @@
+1 - In the scientificName Text Facet we created in the step above, click the Cluster button.
+2 - In the resulting pop-up window, you can change the Method and the Keying Function. Try different combinations to see what different mergers of values are suggested.
+3 - Select the key collision method and metaphone3 keying function. It should identify three clusters.
+4 - Click the Merge? box beside each, then click Merge Selected and Recluster to apply the corrections to the dataset.
+5 - Try selecting different Methods and Keying Functions again, to see what new merges are suggested. You may find there are still improvements that can be made, but don’t Merge again; just Close when you’re done. We’ll now see other operations that will help us detect and correct the remaining problems, and that have other, more general uses.
+
+**Important**: If you Merge using a different method or keying function, or more times than described in the instructions above, your solutions for later exercises will not be the same as shown in those exercise solutions.
