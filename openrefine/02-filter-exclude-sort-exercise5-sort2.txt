@@ -1,0 +1,1 @@
+Sort the data by plot. What year(s) were observations recorded for plot 1 in this filtered dataset.

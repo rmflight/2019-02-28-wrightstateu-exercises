@@ -1,0 +1,3 @@
+Sort by year, month and day in some order. Be creative: try sorting as numbers or text, and in reverse order (largest to smallest or z to a).
+
+Use > Sort > Remove sort to remove the sort on the second of three columns. Notice how that changes the order.
