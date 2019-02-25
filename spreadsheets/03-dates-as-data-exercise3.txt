@@ -1,0 +1,1 @@
+What happens to the dates in the “dates” tab of our workbook if we save this sheet in Excel (in csv format) and then open the file in a plain text editor (like TextEdit or Notepad)? What happens to the dates if we then open the csv file in Excel?
