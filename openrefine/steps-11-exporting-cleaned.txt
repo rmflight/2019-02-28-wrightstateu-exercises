@@ -1,0 +1,3 @@
+1 - Click Export in the top right and select the file type you want to export the data in. Tab-separated values (tsv) or Comma-separated values (csv) would be good choices.
+2 - That file will be exported to your default Download directory. That file can then be opened in a spreadsheet program or imported into programs like R or Python, which we’ll be discussing later in our workshop.
+

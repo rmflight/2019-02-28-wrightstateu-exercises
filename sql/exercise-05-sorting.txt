@@ -1,0 +1,5 @@
+Write a query that returns year, species_id, and weight in kg from the surveys table, sorted with the largest weights at the top.
+
+# SELECT year, species_id, weight / 1000
+# FROM surveys
+# ORDER BY weight DESC;

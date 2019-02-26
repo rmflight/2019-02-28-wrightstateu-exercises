@@ -1,0 +1,9 @@
+1 - Download these files from https://figshare.com/articles/Portal_Project_Teaching_Database/1314459
+  * surveys.csv
+  * species.csv
+  * plots.csv
+2 - Open each of these csv files and explore them. What information is contained in each file? Specifically, if I had the following research questions:
+  * How has the hindfoot length and weight of Dipodomys species changed over time?
+  * What is the average weight of each species, per year?
+  * What information can I learn about Dipodomys species in the 2000s, over time?
+What would I need to answer these questions? Which files have the data I need? What operations would I need to perform if I were doing these analyses by hand?

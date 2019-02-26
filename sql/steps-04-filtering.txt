@@ -1,0 +1,17 @@
+# all queries should be typed into DB SQLITE Browser
+
+SELECT *
+FROM surveys
+WHERE species_id='DM';
+
+SELECT * FROM surveys
+WHERE year >= 2000;
+
+SELECT *
+FROM surveys
+WHERE (year >= 2000) AND (species_id = 'DM');
+
+SELECT *
+FROM surveys
+WHERE (species_id = 'DM') OR (species_id = 'DO') OR (species_id = 'DS');
+

@@ -1,0 +1,8 @@
+SELECT COUNT(*)
+FROM surveys;
+
+SELECT COUNT(*), SUM(weight)
+FROM surveys;
+
+SELECT ROUND(SUM(weight)/1000.00, 3)
+FROM surveys;

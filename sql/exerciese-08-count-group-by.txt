@@ -1,0 +1,15 @@
+Write queries that return:
+
+1 - How many individuals were counted in each year in total
+2 - How many were counted each year, for each different species
+3 - The average weights of each species in each year
+
+Can you get the answer to both 2 and 3 in a single query?
+
+# SELECT year, COUNT(*)
+# FROM surveys
+# GROUP BY year;
+
+# SELECT year, species_id, COUNT(*), AVG(weight) 
+# FROM surveys
+# GROUP BY year, species_id;

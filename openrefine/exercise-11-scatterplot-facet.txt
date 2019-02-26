@@ -1,0 +1,2 @@
+1 - Examine the scatterplots overall. Do the patterns make sense?
+2 - Why does the scatterplot for recordID vs period have the pattern it does?

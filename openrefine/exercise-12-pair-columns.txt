@@ -1,0 +1,1 @@
+Click in the scatterplot facet in the left margin and drag to highlight a rectangle. This will subset the data to those entries.

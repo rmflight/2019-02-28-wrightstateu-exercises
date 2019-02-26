@@ -1,0 +1,4 @@
+SELECT genus, species
+FROM species
+WHERE taxa = 'Bird'
+ORDER BY species_id ASC;

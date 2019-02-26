@@ -1,0 +1,26 @@
+# the following commands should be typed into DB SQLITE Browser
+
+SELECT year
+FROM surveys;
+
+SELECT year, month, day
+FROM surveys;
+
+SELECT *
+FROM surveys;
+
+SELECT *
+FROM surveys
+LIMIT 10;
+
+SELECT DISTINCT species_id
+FROM surveys;
+
+SELECT DISTINCT year, species_id
+FROM surveys;
+
+SELECT year, month, day, weight/1000
+FROM surveys;
+
+SELECT plot_id, species_id, sex, weight, ROUND(weight / 1000, 2)
+FROM surveys;

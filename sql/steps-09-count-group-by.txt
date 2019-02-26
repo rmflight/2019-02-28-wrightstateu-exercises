@@ -1,0 +1,3 @@
+SELECT species_id, COUNT(*)
+FROM surveys
+GROUP BY species_id;

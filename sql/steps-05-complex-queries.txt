@@ -1,0 +1,11 @@
+SELECT *
+FROM surveys
+WHERE (year >= 2000) AND (species_id IN ('DM', 'DO', 'DS'));
+
+-- Get post 2000 data on Dipodomys' species
+-- These are in the surveys table, and we are interested in all columns
+SELECT * FROM surveys
+-- Sampling year is in the column `year`, and we want to include 2000
+WHERE (year >= 2000)
+-- Dipodomys' species have the `species_id` DM, DO, and DS
+AND (species_id IN ('DM', 'DO', 'DS'));

@@ -1,0 +1,1 @@
+Transform three more columns, including period, from text to numbers. Can all columns be transformed to numbers?

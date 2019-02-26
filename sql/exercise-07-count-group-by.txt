@@ -1,0 +1,10 @@
+Write a query that returns: the total weight, average weight, minimum and maximum weights for all animals caught over the duration of the survey. Can you modify it so that it outputs these values only for weights between 5 and 10?
+
+# -- All animals
+# SELECT SUM(weight), AVG(weight), MIN(weight), MAX(weight)
+# FROM surveys;
+#
+# -- Only weights between 5 and 10
+# SELECT SUM(weight), AVG(weight), MIN(weight), MAX(weight)
+# FROM surveys
+# WHERE (weight > 5) AND (weight < 10);

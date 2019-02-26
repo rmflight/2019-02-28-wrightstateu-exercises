@@ -1,0 +1,14 @@
+SELECT *
+FROM species;
+
+SELECT *
+FROM species
+ORDER BY taxa ASC;
+
+SELECT *
+FROM species
+ORDER BY taxa DESC;
+
+SELECT *
+FROM species
+ORDER BY genus ASC, species ASC;
